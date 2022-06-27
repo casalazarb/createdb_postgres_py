@@ -1,6 +1,8 @@
 # createdb_postgres_py
 Create a database in postgresql, create tables, insert values, create a join query with python psycopg2.
 
+This project uses python and SQL.
+
 You have to install first postgresql in your local machine.
 Change the pg_hba.conf file to modify the authentication method to md5, using nano text editor is an easy way.
 Install psycopg2, use pip.
